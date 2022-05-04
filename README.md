@@ -16,6 +16,7 @@
 
 
 ## Code
+* mysql
 * javascript
 * npm i
 * npm test
