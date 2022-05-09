@@ -32,3 +32,7 @@
 ### Any questions feel free to contact me at <a href="https://erinjordan2790@gmail.com">ErinJordan2790@gmail.com</a> or <a href="https://github.com/ErinJordan222">ErinJordan222</a>
 
 ## Screenshots
+
+
+https://user-images.githubusercontent.com/92272866/167326257-9af8f51d-3ce9-4df1-8876-22f64fd1960e.mp4
+
