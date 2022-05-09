@@ -2,7 +2,7 @@
 
 ## Description
 ### Erin Jordan's CMS Employee Database Week 12 Project for University of Denver Coding Bootcamp. 
-#### Description here
+#### The purpose of this project is to sucessfully use MYSQL database to store your employee's info (title, salary, etc). Using node to view/ input data that was created in mysql. 
 
 * https://github.com/ErinJordan222/cms_employee_database.git
 
@@ -23,7 +23,7 @@
 * node
 
 ## Usage
-#### Usage here
+#### Create & store database. 
 
 ## Contribution
 ### University of Denver Coding Bootcamp.
