@@ -33,6 +33,4 @@
 
 ## Screenshots
 
-
-https://user-images.githubusercontent.com/92272866/167326257-9af8f51d-3ce9-4df1-8876-22f64fd1960e.mp4
-
+https://user-images.githubusercontent.com/92272866/168494833-4edb13e5-c4ce-44c6-b7a1-a56f532b56b4.mp4
